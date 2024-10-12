@@ -419,6 +419,7 @@ Cherry Markdown Editor 内置了安全钩子，通过过滤白名单以及使用
 | Vue-Markdown-editor    | 高    | 中      | 作为Vue组件，外观定制灵活，但行为定制受限于Vue生态。支持Markdown和HTML编辑，提供自定义插件和工具栏选项。                                |
 | Md-editor-v3           | 高    | 高      | 支持高度自定义，包括主题切换、Prettier文本美化等。支持Vue3，使用TypeScript和JSX开发，支持国际化。                                |
 | tui.editor             | 高    | 高      | 提供了所见即所得编辑体验，外观和行为定制灵活。支持Markdown和HTML编辑，提供多种API，支持实时预览、语法高亮、自动生成目录索引等功能。                    |
+
 ![image.png](https://s2.loli.net/2024/10/11/DpnFdIfHVQewJ16.png)
 
 
